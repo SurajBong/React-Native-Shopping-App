@@ -3,7 +3,7 @@ Created a shopping app with react-native and react navigation 5
 
 This app is built using Expo.
 
-Steps to use this app 
+Steps to use my app 
 1. npm install
 2. npm start
 
