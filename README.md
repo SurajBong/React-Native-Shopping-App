@@ -1,5 +1,6 @@
 # React-Native-Shopping-App
 Created a shopping app with react-native and react navigation 5
+Implemented Push Notification to receive notification from expo servers.
 
 This app is built using Expo.
 
